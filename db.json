@@ -1,123 +1,123 @@
 {
   "products": [
   {
-    "productId": "S10_1678",
+    "id": "S10_1678",
     "amazonPrice": 90.7
   },
   {
-    "productId": "S10_1949",
+    "id": "S10_1949",
     "amazonPrice": 212.3
   },
   {
-    "productId": "S10_2016",
+    "id": "S10_2016",
     "amazonPrice": 114.94
   },
   {
-    "productId": "S10_4698",
+    "id": "S10_4698",
     "amazonPrice": 188.66
   },
   {
-    "productId": "S10_4757",
+    "id": "S10_4757",
     "amazonPrice": 131
   },
   {
-    "productId": "S10_4962",
+    "id": "S10_4962",
     "amazonPrice": 146.74
   },
   {
-    "productId": "S12_1099",
+    "id": "S12_1099",
     "amazonPrice": 189.57
   },
   {
-    "productId": "S12_1108",
+    "id": "S12_1108",
     "amazonPrice": 204.8
   },
   {
-    "productId": "S12_1666",
+    "id": "S12_1666",
     "amazonPrice": 136.67
   },
   {
-    "productId": "S12_2823",
+    "id": "S12_2823",
     "amazonPrice": 150.62
   },
   {
-    "productId": "S12_3148",
+    "id": "S12_3148",
     "amazonPrice": 150.08
   },
   {
-    "productId": "S12_3380",
+    "id": "S12_3380",
     "amazonPrice": 115.44
   },
   {
-    "productId": "S12_3891",
+    "id": "S12_3891",
     "amazonPrice": 168.02
   },
   {
-    "productId": "S12_3990",
+    "id": "S12_3990",
     "amazonPrice": 79.8
   },
   {
-    "productId": "S12_4473",
+    "id": "S12_4473",
     "amazonPrice": 113.5
   },
   {
-    "productId": "S12_4675",
+    "id": "S12_4675",
     "amazonPrice": 114.16
   },
   {
-    "productId": "S18_1097",
+    "id": "S18_1097",
     "amazonPrice": 116.67
   },
   {
-    "productId": "S18_1129",
+    "id": "S18_1129",
     "amazonPrice": 141.54
   },
   {
-    "productId": "S18_1342",
+    "id": "S18_1342",
     "amazonPrice": 102.74
   },
   {
-    "productId": "S18_1367",
+    "id": "S18_1367",
     "amazonPrice": 53.91
   },
   {
-    "productId": "S18_1589",
+    "id": "S18_1589",
     "amazonPrice": 119.44
   },
   {
-    "productId": "S18_1662",
+    "id": "S18_1662",
     "amazonPrice": 152.69
   },
   {
-    "productId": "S18_1749",
+    "id": "S18_1749",
     "amazonPrice": 168
   },
   {
-    "productId": "S18_1889",
+    "id": "S18_1889",
     "amazonPrice": 74
   },
   {
-    "productId": "S18_1984",
+    "id": "S18_1984",
     "amazonPrice": 138.25
   },
   {
-    "productId": "S18_2238",
+    "id": "S18_2238",
     "amazonPrice": 158.73
   },
   {
-    "productId": "S18_2248",
+    "id": "S18_2248",
     "amazonPrice": 57.54
   },
   {
-    "productId": "S18_2319",
+    "id": "S18_2319",
     "amazonPrice": 122.73
   },
   {
-    "productId": "S18_2325",
+    "id": "S18_2325",
     "amazonPrice": 122.13
   },
   {
-    "productId": "S18_2432",
+    "id": "S18_2432",
     "amazonPrice": 56.77
   }
 ],
