@@ -119,7 +119,7 @@
   {
     "productId": "S18_2432",
     "amazonPrice": 56.77
-  },
+  }/*,
   {
     "productId": "S18_2581",
     "amazonPrice": 81.48
@@ -439,7 +439,7 @@
   {
     "productId": "S72_3212",
     "amazonPrice": 54.6
-  }
+  }*/
 ],
   "profile": {
     "name": "typicode"
